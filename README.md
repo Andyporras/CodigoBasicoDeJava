@@ -1,2 +1,2 @@
-# CodigobasicoDeJava
+# CodigoBasicoDeJava
 repositorio dedicado a subir sencillos códigos basico de java 
